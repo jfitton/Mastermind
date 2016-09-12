@@ -1,2 +1,2 @@
 # Mastermind
-Creates a version of the board game Mastermind using JOptionPanes
+This program runs a version of the board game Mastermind using JOptionPane
